@@ -1,0 +1,16 @@
+{
+  "id": "0001",
+  "type": "donut",
+  "name": "Cake",
+  "batters": {
+    "type": [
+      "Regular",
+      "Chocolate"
+    ],
+    "size": [
+      "Big",
+      "Medium",
+      "Small"
+    ]
+  }
+}
